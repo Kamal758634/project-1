@@ -1,0 +1,2 @@
+Breakpoint File Version 1.0
+25 true C:/Users/kamal/vitb/vitb.srcs/sources_1/new/xorgate.v
